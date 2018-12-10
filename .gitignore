@@ -68,3 +68,26 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
+
+# Java & JVM's Ignores
+/.jvm-*
+pom.xml.asc
+*.jar
+*.class
+
+# Clojure's Ignores
+/log
+/logs
+/tmp
+/temp
+/target
+/vendor
+/classes
+/checkouts
+/.lein-*
+/.nrepl-*
+/out
+/output
+
+# Project's Ignores
+test/user.clj
