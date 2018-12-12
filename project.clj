@@ -1,4 +1,4 @@
-(defproject farm.gojek/sentry-clj.async "0.0.1"
+(defproject farm.gojek/sentry-clj.async "0.0.5"
   :description "Sentry client to report error events asynchronously"
   :url "https://github.com/gojekfarm/sentry-clj.async"
   :license {:name "Apache License, Version 2.0"
